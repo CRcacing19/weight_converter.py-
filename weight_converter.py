@@ -16,3 +16,4 @@ elif choice == 2:
     print(weight, "килограмм =", kilograms_to_pounds(weight), "фунтов.")
 else:
     print("Ошибка ввода.")
+.
